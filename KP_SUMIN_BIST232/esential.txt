@@ -1,0 +1,60 @@
+Google
+Поисковая система
+9,8
+google.com
+606606
+goglesupport@gmail.com
+Facebook
+Социальная сеть
+8,8
+facebook.com
++444535
+facebook@x.com
+Amazone
+Онлайн-магазин
+8,4
+amazon.com
++18882803321
+amazonsupport@amazon.com
+Netflix
+Онлайн-кинотеатр
+9,5
+netflix.com
++1 855-424-7262
+support@airbnb.com
+Яндекс
+Поисковая систем
+10
+yandex.ru
+88005353555
+support@ya.ru
+Вконтакте
+Социальная сеть
+7,4
+vk.com
++7999777666
+vksupport@mail.ru
+Rutube
+Видеохостинг
+5,7
+rutube.ru
+89088908800
+supportrutube@rambler.ru
+Youtube
+Видеохостинг
+8,6
+youtube.com
+606606
+goglesupport@gmail.com
+КиноПоиск
+Онлайн-кинотеатр
+9,4
+kinopoisk.ru
+88008877565
+kinosupport@ya.ru
+ЯндексВидео
+Видеохостинг
+4,0
+yavideo.ru
+88005353555
+support@ya.ru
